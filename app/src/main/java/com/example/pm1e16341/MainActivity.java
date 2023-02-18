@@ -72,7 +72,8 @@ public class MainActivity extends AppCompatActivity {
         Button btnVolver = (Button) findViewById(R.id.btnregresar);
 
         btnVolver.setOnClickListener(view -> {
-            finish();
+            Intent intent = new Intent(getApplicationContext(),ActivityPrincipal.class);
+            startActivity(intent);
         });
 
 

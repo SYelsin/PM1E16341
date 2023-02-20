@@ -3,8 +3,9 @@
 
 Examen PM1E16341
 
-=================INTEGRANTES=================
+========INTEGRANTES===========
+
 Yency Julieth Ortega Portillo    201910110241
 
 Yelsin Alberto Sánchez Carranza  202010110163
-=============================================
+
